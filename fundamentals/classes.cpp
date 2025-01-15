@@ -12,7 +12,6 @@ class Car {
         void start(){
             cout << "Car started" << endl;
         }
-
         void stop(){
             cout << model << " " <<type << " Car stopped" << endl;
         }
